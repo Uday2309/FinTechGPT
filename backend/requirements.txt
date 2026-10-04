@@ -13,3 +13,4 @@ pypdf>=5.0
 chromadb>=1.0
 ollama>=0.5
 yfinance>=0.2.60
+google-genai==2.28.0
