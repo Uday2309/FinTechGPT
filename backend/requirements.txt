@@ -1,0 +1,15 @@
+fastapi[standard]
+uvicorn[standard]
+sqlalchemy>=2.0
+psycopg[binary]>=3.2
+pydantic-settings>=2.8
+python-multipart>=0.0.20
+PyJWT>=2.10
+pwdlib[argon2]>=0.2
+pandas>=2.2
+numpy>=2.1
+python-dateutil>=2.9
+pypdf>=5.0
+chromadb>=1.0
+ollama>=0.5
+yfinance>=0.2.60

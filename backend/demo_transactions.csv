@@ -1,0 +1,7 @@
+date,description,amount,type,category,account,merchant,notes
+2026-09-01,Salary,50000,income,Salary,Main,Employer,Monthly salary
+2026-09-02,Rent,12000,expense,Housing,Main,Landlord,Monthly rent
+2026-09-04,Grocery Store,3200,expense,Food,Main,Supermarket,Groceries
+2026-09-05,Metro Recharge,800,expense,Travel,Main,Metro,Commute
+2026-09-08,Netflix,649,expense,Subscriptions,Main,Netflix,Subscription
+2026-09-10,Amazon,1800,expense,Shopping,Main,Amazon,Household items
